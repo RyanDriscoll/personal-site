@@ -5,7 +5,7 @@ const LinkedIn = () => (
     href="https://www.linkedin.com/in/rpdriscoll"
     target="_blank"
     rel="noopener noreferrer"
-    aria-label="link to Ryan Driscoll's LinkedIn profile"
+    aria-label="external link to Ryan Driscoll's LinkedIn profile"
     tabIndex={2}
   >
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 32 448 448">

@@ -5,7 +5,7 @@ const Github = () => (
     href="https://github.com/RyanDriscoll"
     target="_blank"
     rel="noopener noreferrer"
-    aria-label="link to Ryan Driscoll's Github profile"
+    aria-label="external link to Ryan Driscoll's Github profile"
     tabIndex={3}
   >
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 32 448 448">
